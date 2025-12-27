@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "You Never Know",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-27T15:57:25.490599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What You Never Know (Won't Hurt You)",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/01_What_You_Never_Know_(Won't_Hurt_You)_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What You Never Know (Won't Hurt You)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/02_What_You_Never_Know_(Won't_Hurt_You)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What You Never Know (Won't Hurt You) (Sunrise Mix)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/03_What_You_Never_Know_(Won't_Hurt_You)_(Sunrise_Mix)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Never Know",
+      "artist": "The Shapeshifters",
+      "has_synced": true,
+      "path": "select/04_You_Never_Know_The_Shapeshifters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey, You Never Know",
+      "artist": "David Lee Roth",
+      "has_synced": false,
+      "path": "select/05_Hey,_You_Never_Know_David_Lee_Roth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Never Know (Múm Remix)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/06_You_Never_Know_(Múm_Remix)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Never Know",
+      "artist": "Goldfrapp",
+      "has_synced": true,
+      "path": "select/07_You_Never_Know_Goldfrapp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Never Know",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/08_You_Never_Know_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey, You Never Know - 2007 Remastered",
+      "artist": "David Lee Roth",
+      "has_synced": false,
+      "path": "select/09_Hey,_You_Never_Know_-_2007_Remastered_David_Lee_Roth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey, You Never Know (2007 Remaster)",
+      "artist": "David Lee Roth",
+      "has_synced": false,
+      "path": "select/10_Hey,_You_Never_Know_(2007_Remaster)_David_Lee_Roth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Never Know",
+      "artist": "Moya Brennan",
+      "has_synced": false,
+      "path": "select/11_You_Never_Know_Moya_Brennan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Never Know",
+      "artist": "Beartooth",
+      "has_synced": true,
+      "path": "select/12_You_Never_Know_Beartooth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Never Know - Live from the Journey Below",
+      "artist": "Beartooth",
+      "has_synced": false,
+      "path": "select/13_You_Never_Know_-_Live_from_the_Journey_Below_Beartooth.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Never Know (Live from the Journey Below)",
+      "artist": "Beartooth",
+      "has_synced": false,
+      "path": "select/14_You_Never_Know_(Live_from_the_Journey_Below)_Beartooth.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You Never Know",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_You_Never_Know_BLACKPINK.txt"
+    }
+  ]
+}
